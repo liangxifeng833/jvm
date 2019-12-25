@@ -2,7 +2,7 @@ package com.jvm.book.eightChapter;
 
 /**
  * 方法动态分派演示 (方法重写)
- * 运行期间通过实际类型确定方法执行版本的分派过程称为动态分派
+ * 运行期间,通过实际类型确定方法执行版本的分派过程称为动态分派
  * @author lxf 2019-12-25
  */
 public class DynamicDispatch {

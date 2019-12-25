@@ -2,7 +2,7 @@ package com.jvm.book.eightChapter;
 
 /**
  * 方法静态分派演示 (方法重载)
- * 依据静态类型来定位方法执行版本的分派称为静态分派
+ * 编译期间，依据静态类型来定位方法执行版本的分派称为静态分派
  */
 public class StaticDispatch {
     static abstract class Human{}

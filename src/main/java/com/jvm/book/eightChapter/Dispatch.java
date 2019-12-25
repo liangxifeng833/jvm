@@ -2,6 +2,7 @@ package com.jvm.book.eightChapter;
 
 /**
  * 单分派，多分派演示
+ * 编译＋运行期间
  * java语言是静态多分派，动态单分派语言
  */
 public class Dispatch {
