@@ -3,6 +3,7 @@ package msb.classloader;
 public class Hello {
     public void sahHello() {
         System.out.println("hello world,nihao...");
+
     }
 
     public static void main(String[] args) {
