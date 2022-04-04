@@ -1,5 +1,8 @@
 package msb.classloader;
 
+/**
+ * 这个demo是一个测试hello
+ */
 public class Hello {
     public void sahHello() {
         System.out.println("hello world,nihao...");
