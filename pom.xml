@@ -53,7 +53,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.13.1</version>
         </dependency>
 		<!-- JOL依赖 用来分析object对象在内存中的分配-->
 		<dependency>
